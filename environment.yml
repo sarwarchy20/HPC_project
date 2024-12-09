@@ -1,4 +1,4 @@
-name: plmclass2
+name: plmclass
 channels:
   - conda-forge
   - schrodinger
