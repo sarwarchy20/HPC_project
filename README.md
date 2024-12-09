@@ -1,2 +1,2 @@
 # HPC_project
-## hh
+## Protein sequence classification using fine-tuned protein langauge model (ESM-2)
