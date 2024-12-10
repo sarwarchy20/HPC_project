@@ -3,5 +3,5 @@
 
 ### How to install
 Assume you have installed conda in your device,
-If not, First install miniconda, see: [https://docs.conda.io/projects/miniconda/en/latest/miniconda-other-installer-links.html](https://docs.conda.io/projects/miniconda/en/latest/miniconda-other-installer-links.html)
+If not, First install miniconda, see: [https://docs.conda.io/projects/miniconda/en/latest/miniconda-other-installer-links.html](https://docs.conda.io/projects/miniconda/en/latest/miniconda-other-installer-links.html) <br/>
 ```conda env create -f environment.yml```
